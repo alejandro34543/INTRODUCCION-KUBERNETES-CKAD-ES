@@ -15,7 +15,7 @@ Veremos qué son los ConfigMaps, cómo crearlos, algunas de las formas en que lo
 
 Creacion de una configmap rapidamente con los valores siguientes:
 ```bash
-kubectl create cm my-config-map --from-literal=myKey=myValue
+$ kubectl create cm my-config-map --from-literal=myKey=myValue
 ```
 
 Ejemplo de configmap :
@@ -32,7 +32,7 @@ data:
 
 Tambien podemon crear una configmap a partir de un file :
 ```bash
-kubectl create cm my-config-map --from-file=/etc/ejemplo/data.conf
+$ kubectl create cm my-config-map --from-file=/etc/ejemplo/data.conf
 ```
 
 
