@@ -11,7 +11,7 @@ Una de las cosas mas importantes es hablar y comprender el ingles, pero no neces
 La sección de Conceptos le ayuda a comprender mejor los componentes del sistema de Kubernetes y las abstracciones que Kubernetes utiliza para representar su clúster. También te ayuda a entender mejor cómo funciona Kubernetes en general.
 - [Conceptos principales](https://github.com/alejandro34543/PREPACION-CKAD-/blob/master/conceptos-principales.md)
 - [Configuracion](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/configuracion.md)
-- Pod Concepcion
+- [Pod Concepcion](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/pod-concepcion.md)
 - Volumes
 - Observacion
 - Servicios y Networking
