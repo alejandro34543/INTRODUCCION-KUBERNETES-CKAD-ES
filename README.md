@@ -1,4 +1,4 @@
-# Introducción Kubernetes Application Developper (Espanol)
+# Introducción Kubernetes Application Developper (Español)
 Una pequena introduccion, explicaciones, consejos para apprender Kubernetes y si lo desean pasar su [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/).
 
 Veremos los conceptos los objetos Kubernetes, como funcionan entre ellos como comunican y las commandas mas utilizas.
