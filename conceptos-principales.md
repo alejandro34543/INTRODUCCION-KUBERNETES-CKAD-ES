@@ -12,7 +12,7 @@ El "maestro" se refiere a un conjunto de procesos que gestionan el estado de la 
 
 
 ```bash
-kubectl api-resources -o name
+$ kubectl api-resources -o name
 ```
 
 ## Kubernetes Nodes
@@ -21,9 +21,9 @@ En un clúster de Kubernetes, los Nodes son las máquinas (máquinas virtuales, 
 
 Para ver todos los nodes que tenemos y describirlos :
 ```bash
-kubectl get nodes
-kubectl get nodes nombre_node
-kubectl describe nodes nombre_node
+$ kubectl get nodes
+$ kubectl get nodes nombre_node
+$ kubectl describe nodes nombre_node
 ```
 
 ## Pod
