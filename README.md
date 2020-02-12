@@ -12,6 +12,7 @@ La sección de Conceptos le ayuda a comprender mejor los componentes del sistema
 - [Conceptos principales](https://github.com/alejandro34543/PREPACION-CKAD-/blob/master/conceptos-principales.md)
 - [Configuracion](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/configuracion.md)
 - [Pod Concepcion](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/pod-concepcion.md)
+- [ServiceAccount & SecurityContexts](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/serviceaccount_securitycontext.md)
 - Volumes
 - Observacion
 - Servicios y Networking
