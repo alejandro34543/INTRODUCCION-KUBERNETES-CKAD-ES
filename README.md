@@ -14,7 +14,7 @@ La sección de Conceptos le ayuda a comprender mejor los componentes del sistema
 - [Pod Concepcion](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/pod-concepcion.md)
 - [ServiceAccount & SecurityContexts](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/serviceaccount_securitycontext.md)
 - [Resources Requirements & Secrets](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/resources_requirements-secrets.md)
-- Volumes
+- [Volumes](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/volumes.md)
 - Observacion
 - Servicios y Networking
 - Tips
