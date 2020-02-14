@@ -26,6 +26,31 @@ $ kubectl get nodes nombre_node
 $ kubectl describe nodes nombre_node
 ```
 
+## Namespace
+Kubernetes soporta múltiples clusters virtuales respaldados por el mismo clúster físico. Estos clusters virtuales se llaman namespaces.
+
+Puedes listar los Namespaces actuales en un cluster usando :
+```bash
+$ kubectl get namespace
+```
+
+```bash
+NAME          STATUS    AGE
+default       Active    1d
+kube-system   Active    1d
+kube-public   Active    1d
+```
+
+Kubernetes comienza con tres Namespaces:
+
+- **default :** Namespace por defecto para los objetos sin otro Namespace.
+
+- **kube-system :** Namespace para los objetos creados por el sistema de kubernetes.
+
+- **kube-public :** Este Namespacese se crea automáticamente y es legible por todos los usuarios (incluidos los no autentificados).
+
+Este Namespace se reserva principalmente para el uso del cluster, en caso de que algunos recursos sean visibles y legibles públicamente en todo el cluster. El aspecto público de este Namespace es sólo una convención, no un requisito.
+
 ## Pod
 Un Pod es la unidad básica de ejecución de una aplicación de Kubernetes, la unidad más pequeña y sencilla del modelo de objetos de Kubernetes que usted crea o despliega.
 Un Pod representa los procesos que se ejecutan en su Cluster.
