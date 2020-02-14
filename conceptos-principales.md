@@ -41,6 +41,7 @@ kube-system   Active    1d
 kube-public   Active    1d
 ```
 
+
 Kubernetes comienza con tres Namespaces:
 
 - **default :** Namespace por defecto para los objetos sin otro Namespace.
