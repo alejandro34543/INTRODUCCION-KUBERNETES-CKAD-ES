@@ -1,3 +1,5 @@
+![alt tag](https://www.supinfo.com/articles/resources/220921/9402/0.png)
+
 # Introducción Kubernetes Application Developper (Español)
 Una pequena introduccion, explicaciones, consejos para apprender Kubernetes y si lo desean pasar su [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/).
 
