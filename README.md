@@ -14,7 +14,6 @@ La sección de Conceptos le ayuda a comprender mejor los componentes del sistema
 - [Core Concepts](https://github.com/alejandro34543/PREPACION-CKAD-/blob/master/conceptos-principales.md)
 - [Configuration](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/configuracion.md)
 - [Pod Desing](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/pod-concepcion.md)
-- [ServiceAccount & SecurityContexts](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/serviceaccount_securitycontext.md)
 - [Resources Requirements & Secrets](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/resources_requirements-secrets.md)
 - [State Persistence](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/volumes.md)
 - [Observability](https://github.com/alejandro34543/INTRODUCCION-KUBERNETES-CKAD-ES/blob/master/observacion.md)
